@@ -144,6 +144,6 @@ class NoufSaad:
 
 📧 **nouf.saad.gh@hotmail.com**
 
-💼 **LinkedIn:** http://linkedin.com/in/nouf-saad-
+💼 **LinkedIn:** [http://linkedin.com/in/nouf-saad-](https://www.linkedin.com/in/nouf-saad-123456789/)
 
 ⭐ Thanks for visiting my GitHub profile!
