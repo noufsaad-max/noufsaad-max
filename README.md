@@ -1,22 +1,24 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=38&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=900&lines=Hi,+I'm+Nouf+Alghamdi;Data+Analyst;AI+Developer;Machine+Learning+Enthusiast;Building+Intelligent+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=36&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Nouf+Alghamdi;AI+Developer;Data+Analyst;AI+%26+Machine+Learning+Enthusiast;Building+Intelligent+Solutions" alt="Typing SVG" />
 
-### AI Developer | Data Analyst | IT Graduate
+### AI Developer | Data Analyst | AI & Machine Learning Enthusiast
 
-Passionate about Artificial Intelligence, Data Analytics, Machine Learning, and building intelligent solutions that solve real-world problems.
+Passionate about **Artificial Intelligence and building intelligent, AI-powered solutions** that solve real-world problems.
+
+My interests focus on **Generative AI, Large Language Models (LLMs), AI Agents, Machine Learning, NLP, and Data Analytics**.
 
 <p>
 <a href="mailto:nouf.saad.gh@hotmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
-<a href="https://www.linkedin.com/in/nouf-saad-">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/nouf-saad-/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="https://github.com/noufsaad-max">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 </p>
 
@@ -24,185 +26,161 @@ Passionate about Artificial Intelligence, Data Analytics, Machine Learning, and 
 
 ---
 
-# About Me
+#  About Me
 
-- AI Developer
-- Data Analyst
-- Bachelor of Information Technology
-- Python Developer
-- Interested in Artificial Intelligence, Machine Learning, NLP, RAG and Generative AI
-- Passionate about solving real-world problems with data
+I'm an **Information Technology graduate** passionate about Artificial Intelligence and developing intelligent applications.
+
+I am particularly interested in **AI projects that combine Machine Learning, NLP, Generative AI, and Large Language Models** to solve real-world problems.
+
+My goal is to continue developing my expertise in AI and contribute to innovative projects that use intelligent systems to create meaningful impact.
+
+-  AI Developer
+-  Artificial Intelligence & Machine Learning
+-  Generative AI & Large Language Models
+-  AI Agents & Multi-Agent Systems
+-  Natural Language Processing (NLP)
+-  Data Analytics
+-  Python Developer
+-  Building AI-powered solutions
 
 ---
 
-# Featured Project
+#  Featured AI Projects
 
-## AI CV Job Matcher
+##  AI CV Job Matcher
 
-An AI-powered recruitment system that matches CVs with job descriptions using Natural Language Processing and Machine Learning techniques.
+An AI-powered recruitment system that matches **CVs with job descriptions** using Natural Language Processing and Machine Learning techniques.
 
-**Technologies**
+The system processes CVs and job descriptions, analyzes their semantic similarity, and generates a matching score to help identify relevant candidates and opportunities.
+
+### Technologies
 
 - Python
 - Machine Learning
 - NLP
+- Doc2Vec
+- Gensim
+- PyPDF2
 - Data Analysis
-- SQL
 
 ---
 
-# Tech Stack
+##  Multi-Agent LLM-Driven Project Management System
 
-### Programming Languages
+An **AI-powered project management system** designed using **Large Language Models and Multi-Agent AI**.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+The system uses multiple specialized AI agents to support different project management tasks, enabling intelligent collaboration between agents and improving project planning, task management, and decision-making.
+
+### Technologies & Concepts
+
+- Large Language Models (LLMs)
+- Multi-Agent AI
+- Generative AI
+- AI Agents
+- Prompt Engineering
+- Intelligent Automation
+- Project Management
+
+---
+
+#  What I Love Building
+
+I'm especially interested in projects that use AI to:
+
+-  Build intelligent applications
+-  Develop AI Agents and Multi-Agent Systems
+-  Apply Machine Learning to real-world problems
+-  Build Generative AI solutions
+-  Develop LLM-powered applications
+-  Process and understand unstructured data using NLP
+-  Build RAG-based applications
+-  Automate repetitive tasks using AI
+-  Improve decision-making through data and AI
+-  Transform ideas into practical AI solutions
+
+---
+
+#  AI Interests
+
+| Area | Focus |
+|---|---|
+|  Artificial Intelligence | Building intelligent applications |
+|  Machine Learning | Predictive and intelligent systems |
+|  Generative AI | AI-powered applications |
+|  LLMs | Large Language Model applications |
+|  AI Agents | Autonomous and collaborative AI systems |
+|  NLP | Understanding and processing human language |
+|  RAG | Knowledge-grounded AI applications |
+|  Data Analytics | Turning data into insights |
+
+---
+
+# 💻 Tech Stack
+
+### Programming
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</p>
 
 ### Data Analytics
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+<p>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+</p>
 
 ### Artificial Intelligence
 
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-E34F26?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-00599C?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-6A0DAD?style=for-the-badge)
+<p>
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge" alt="Machine Learning">
+<img src="https://img.shields.io/badge/NLP-00599C?style=for-the-badge" alt="NLP">
+<img src="https://img.shields.io/badge/Generative_AI-6A0DAD?style=for-the-badge" alt="Generative AI">
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" alt="LLMs">
+<img src="https://img.shields.io/badge/AI_Agents-00A67E?style=for-the-badge" alt="AI Agents">
+<img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge" alt="RAG">
+<img src="https://img.shields.io/badge/Prompt_Engineering-FF69B4?style=for-the-badge" alt="Prompt Engineering">
+</p>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+</p>
 
 ---
 
-# About Me in Python
+#  About Me in Python
 
 ```python
 class NoufAlghamdi:
 
     def __init__(self):
+        self.role = "AI Developer & Data Analyst"
 
-        self.role = "Data Analyst & AI Developer"
-
-        self.languages = [
-            "Python",
-            "SQL"
-        ]
-
-        self.data_analytics = [
-            "Power BI",
-            "Excel",
-            "Pandas",
-            "NumPy",
-            "Matplotlib"
-        ]
-
-        self.artificial_intelligence = [
+        self.interests = [
+            "Artificial Intelligence",
             "Machine Learning",
-            "Deep Learning",
-            "NLP",
-            "RAG",
             "Generative AI",
-            "Prompt Engineering"
+            "Large Language Models",
+            "AI Agents",
+            "Multi-Agent Systems",
+            "NLP",
+            "Data Analytics"
         ]
 
-        self.current_project = "AI CV Job Matcher"
+        self.projects = [
+            "AI CV Job Matcher",
+            "Multi-Agent LLM-Driven Project Management System"
+        ]
+
+        self.goal = "Building intelligent AI-powered solutions"
 
     def introduce(self):
         print("Welcome to my GitHub Profile!")
-```
-
----
-
-# Education
-
-Bachelor of Information Technology
-
-Arab Open University
-
----
-
-# Currently Learning
-
-- AI Agents
-- Large Language Models (LLMs)
-- MLOps
-- Advanced Machine Learning
-
----
-
-# GitHub Statistics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=noufsaad-max&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noufsaad-max&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=noufsaad-max&theme=tokyonight"/>
-</p>
-
----
-
-# GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=noufsaad-max&theme=tokyonight&row=1&column=6"/>
-</p>
-
----
-
-# Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=noufsaad-max&theme=tokyo-night"/>
-</p>
-
----
-
-# Languages
-
-- Arabic (Native)
-- English (Professional Working Proficiency)
-
----
-
-# Quote
-
-> "Turning data into insights and ideas into intelligent solutions."
-
----
-
-# Connect With Me
-
-**Email**
-
-nouf.saad.gh@hotmail.com
-
-**LinkedIn**
-
-https://www.linkedin.com/in/nouf-saad-
-
-**GitHub**
-
-https://github.com/noufsaad-max
-
----
-
-<div align="center">
-
-**Thanks for visiting my GitHub profile.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CFFF,100:6C63FF&height=120&section=footer"/>
-
-</div>
