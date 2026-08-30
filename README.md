@@ -62,6 +62,7 @@ The system processes CVs and job descriptions, analyzes their semantic similarit
 - Gensim
 - PyPDF2
 - Data Analysis
+- Ai
 
 ---
 
@@ -115,7 +116,7 @@ I'm especially interested in projects that use AI to:
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
 ### Programming
 
