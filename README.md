@@ -23,7 +23,7 @@ My interests focus on **Generative AI, Large Language Models (LLMs), AI Agents, 
 </p>
 
 </div>
----
+
 About Me
 
 I'm an **Information Technology graduate** passionate about Artificial Intelligence and developing intelligent applications.
