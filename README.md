@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=36&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Nouf+Alghamdi;AI+Developer;Data+Analyst;AI+%26+Machine+Learning+Enthusiast;Building+Intelligent+Solutions" alt="Typing SVG" />
 
-### AI Developer | Data Analyst | AI & Machine Learning Enthusiast
+### AI Developer | Data Analyst | AI & Machine Learning Enthusiast |  Agentic Ai | Ai Developer Engineer
 
 Passionate about **Artificial Intelligence and building intelligent, AI-powered solutions** that solve real-world problems.
 
